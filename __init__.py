@@ -1,0 +1,3 @@
+NODE_CLASS_MAPPINGS = {}
+WEB_DIRECTORY = "./js"  # 每次更新递增版本号
+__all__ = ["NODE_CLASS_MAPPINGS", "WEB_DIRECTORY"]
